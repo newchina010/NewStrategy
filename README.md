@@ -1,4 +1,5 @@
 # 21世纪新中国治国方略
+https://github.com/newchina010/newchina010.github.io
 
 * 欢迎提出问题，一起讨论，批判和改进
 * 欢迎一起修订和完善内容
