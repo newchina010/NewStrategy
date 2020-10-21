@@ -1,0 +1,9 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - 公有制经济.md
+  - README.md
+  - 衡量社会指标.md
