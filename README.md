@@ -31,7 +31,7 @@
 
 # [论共产主义基本逻辑](./论共产主义基本逻辑)
 
-# [中国新时代的阶级斗争](https://medium.com/@2019celebration/first-page-932473e6ea3c)
+# [中国新时代的阶级斗争](https://medium.com/@2019celebration/first-page-932473e6ea3c){:target="_blank"}
 
 # [抓住阶级斗争主要矛盾](./抓住阶级斗争主要矛盾)
 
