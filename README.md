@@ -52,5 +52,4 @@
 资料
 
 # [中国新时代的阶级斗争](https://medium.com/@2019celebration/first-page-932473e6ea3c)
-
 # [中国资本主义的发展和阶级斗争](./Captalism in China (Chinese).pdf)
